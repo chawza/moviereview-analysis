@@ -9,11 +9,9 @@ Steps on this project
 Preprocess:
     1. convert to lower case -> python
     2. expand contraction -> python
-    3. remove special characters
-    4. Tokenization -> nltk
+    3. Tokenization -> nltk
+    4. stemming -> nltk
     5. remove stop words -> nltk
-    6. stemming -> nltk
-
 Modeling:
     7. create model
     8. fit model
